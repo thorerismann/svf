@@ -1,0 +1,12 @@
+name: svf
+channels:
+  - conda-forge
+dependencies:
+  - opencv
+  - numpy
+  - matplotlib
+  - notebook
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /home/tge/mambaforge/envs/svf
